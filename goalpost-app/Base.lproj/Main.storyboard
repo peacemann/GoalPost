@@ -218,7 +218,7 @@
                                         <rect key="frame" x="15" y="33" width="14" height="25"/>
                                         <state key="normal" image="back"/>
                                         <connections>
-                                            <action selector="backBtnWasPressed:" destination="87k-A9-iIE" eventType="touchUpInside" id="OJU-R1-jpf"/>
+                                            <action selector="backBtnWasPressed:" destination="87k-A9-iIE" eventType="touchUpInside" id="hZc-DQ-a9M"/>
                                         </connections>
                                     </button>
                                 </subviews>
@@ -353,6 +353,9 @@
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="YBV-P7-4Oc">
                                         <rect key="frame" x="15" y="33" width="14" height="25"/>
                                         <state key="normal" image="back"/>
+                                        <connections>
+                                            <action selector="backBtnWasPressed:" destination="5q4-Sp-zcw" eventType="touchUpInside" id="YBh-LW-rw9"/>
+                                        </connections>
                                     </button>
                                 </subviews>
                                 <color key="backgroundColor" red="0.42745098040000001" green="0.73725490199999999" blue="0.38823529410000002" alpha="1" colorSpace="calibratedRGB"/>

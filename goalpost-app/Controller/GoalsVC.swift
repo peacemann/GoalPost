@@ -7,6 +7,9 @@
 //
 
 import UIKit
+import CoreData
+
+var appDelegate = UIApplication.shared.delegate as? AppDelegate
 
 class GoalsVC: UIViewController {
 
